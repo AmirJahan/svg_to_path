@@ -1,0 +1,17 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="500dp"
+    android:height="500dp"
+    android:viewportWidth="500"
+    android:viewportHeight="500">
+  <path
+      android:pathData="
+
+      M100,100
+        A50,30 0 1,1 200,150"
+
+
+      android:strokeWidth="2"
+      android:fillColor="#ffff00"
+      android:strokeColor="#800080"/>
+<!--  // a r,r 0 1,1 (r * 2),0-->
+</vector>
