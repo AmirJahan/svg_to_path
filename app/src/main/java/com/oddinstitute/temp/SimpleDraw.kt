@@ -8,8 +8,8 @@ import kotlin.math.atan2
 
 class SimpleDraw: View
 {
-    lateinit var path: Path
-    lateinit var paint: Paint
+    var path: Path
+    var paint: Paint
 
         constructor(context: Context?) : super(context)
         {

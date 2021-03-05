@@ -12,9 +12,4 @@ enum class PathType(val c: Char)
 
     Quad('Q'),
     SmoothQuad('T'), // cp 1 is reflection
-
-
-    decide to drop the arc
-    // clean the code
-    Arc('A')
 }

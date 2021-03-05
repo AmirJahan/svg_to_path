@@ -5,13 +5,8 @@
     android:viewportHeight="500">
   <path
       android:pathData="
-
       M100,100
-        A50,30 0 1,1 200,150"
-
-
+      A50,30 0 1,1 200,150"
       android:strokeWidth="2"
-      android:fillColor="#ffff00"
-      android:strokeColor="#800080"/>
-<!--  // a r,r 0 1,1 (r * 2),0-->
+      android:fillColor="#ffff00"/>
 </vector>
